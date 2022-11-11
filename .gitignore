@@ -1,3 +1,4 @@
 JTDX.ini
 save
-*_ALL.TXT
+*.txt
+!CALL3.TXT
